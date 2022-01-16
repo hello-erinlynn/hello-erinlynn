@@ -1,5 +1,6 @@
 ### Hi there. My name is ERIN 👋
 ### I'm here trying to figure this all out.
+### These edits might all be public?
 
 <!--
 **hello-erinlynn/hello-erinlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
