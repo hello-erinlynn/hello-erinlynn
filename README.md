@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Erin 👋🏻 👩🏼‍💻
+### I'm a Full-Stack Developer based in Chicago, Illinois. 
 <!--
 **hello-erinlynn/hello-erinlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
